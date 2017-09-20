@@ -18,3 +18,5 @@ Hahaha, sometimes merging branches can cause conflicts!
 Solve them and then make the commit!
 
 Fucker!
+
+** Learning Git is fun!
