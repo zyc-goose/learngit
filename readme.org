@@ -13,6 +13,8 @@ Git is a distributed version control system.
 
 ** Branch Manegement
 
-Creating a new branch is quick! You are a real fucker.
+Hahaha, sometimes merging branches can cause conflicts!
+
+Solve them and then make the commit!
 
 Fucker!
